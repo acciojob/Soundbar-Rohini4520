@@ -18,5 +18,7 @@ const sound=['applause' , 'boo', 'gasp','tada','victory','wrong','stop'];
         }
       });
     }
+window.playSound = playSound;
+    window.stopSounds = stopSounds;
 
 
